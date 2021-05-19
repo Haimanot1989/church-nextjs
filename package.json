@@ -5,7 +5,7 @@
   "author": "Haimanot Tekie <haimif@yahoo.com>",
   "license": "MIT",
   "dependencies": {
-    "@theme-ui/presets": "^0.3.0",
+    "@theme-ui/presets": "^0.8.4",
     "body-parser": "^1.19.0",
     "dotenv-load": "^2.0.0",
     "next": "^10.2.0",
@@ -13,7 +13,7 @@
     "next-env": "^1.1.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "theme-ui": "^0.3.1"
+    "theme-ui": "^0.8.4"
   },
   "devDependencies": {
     "@types/node": "^15.3.0",
