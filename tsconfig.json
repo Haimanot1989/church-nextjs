@@ -18,10 +18,14 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "pages/_app.tsx",
-    "pages/books/[id].tsx",
+    "pages/_app.jsx",
+    "pages/book/[id].tsx",
+    "pages/book/[title].tsx",
     "pages/index.jsx",
-    "pages/api/book/[id].js"
-  ],
+    "pages/api/book/[id].js",
+    "pages/books/index.jsx",
+    "pages/api/index.js",
+    "pages/api/book/index.js"
+, "pages/sermons/index.jsx", "pages/conferences/index.jsx", "pages/books/[id].jsx"  ],
   "exclude": ["node_modules"]
 }
